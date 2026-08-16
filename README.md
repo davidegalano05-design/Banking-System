@@ -21,4 +21,4 @@ Un sistema bancario interattivo e completo sviluppato in Python, basato rigorosa
 
 1. Clona la repository sul tuo computer:
    ```bash
-  git clone https://github.com/davidegalano05-design/Banking-System.git
+   git clone https://github.com/davidegalano05-design/Banking-System.git
